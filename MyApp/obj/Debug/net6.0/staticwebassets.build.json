@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "4h7/+VFR0Oh2hEdpQJBjF6EQJpB/3flZHGihMjiwLCU=",
+  "Source": "MyApp",
+  "BasePath": "_content/MyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyApp\\wwwroot",
+      "Source": "MyApp",
+      "ContentRoot": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\",
+      "BasePath": "_content/MyApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\assets\\index-97ec94fa.js",
+      "SourceId": "MyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\",
+      "BasePath": "_content/MyApp",
+      "RelativePath": "assets/index-97ec94fa.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-97ec94fa.js"
+    },
+    {
+      "Identity": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\assets\\index-e5bc938d.css",
+      "SourceId": "MyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\",
+      "BasePath": "_content/MyApp",
+      "RelativePath": "assets/index-e5bc938d.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-e5bc938d.css"
+    },
+    {
+      "Identity": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\index.html",
+      "SourceId": "MyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\",
+      "BasePath": "_content/MyApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\vite.svg",
+      "SourceId": "MyApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yaasm\\OneDrive\\Desktop\\SeaShark\\week2\\MyApp\\wwwroot\\",
+      "BasePath": "_content/MyApp",
+      "RelativePath": "vite.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\vite.svg"
+    }
+  ]
+}
